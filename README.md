@@ -17,6 +17,7 @@ Table of contents
 ### Tutorials
 ### Articles
 ### Resources & Tools
+- [Documentation](https://reactjs.org/docs/getting-started.html)
 
 ## Nodejs
 
@@ -24,11 +25,18 @@ Table of contents
 ### Articles
 ### Resources & Tools
 
+## Other
+
+### Tutorial
+
+- Video Tutorial 📺
+
 # Who to Follow
 
 ## Blogs
 
-### [Overreacted](https://overreacted.io/) by [Dan Abramov](https://github.com/gaearon)
-Personal blog by Dan Abramov.
+### [Overreacted](https://overreacted.io/)
+Personal blog by [Dan Abramov](https://github.com/gaearon).
 
 ## Twitter
+- [@dan_abramov](https://twitter.com/dan_abramov) - React
