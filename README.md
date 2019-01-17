@@ -29,5 +29,6 @@ Table of contents
 ## Blogs
 
 ### [Overreacted](https://overreacted.io/) by [Dan Abramov](https://github.com/gaearon)
+Personal blog by Dan Abramov.
 
 ## Twitter
