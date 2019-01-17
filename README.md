@@ -5,6 +5,10 @@ Table of contents
 - [React](#react)
 - [Nodejs](#nodejs)
 
+- [Who to Follow](#who-to-follow)
+  - [Blogs](#blogs)
+  - [Twitter](#twitter)
+
 ## React
 
 ### Tutorials
@@ -16,3 +20,9 @@ Table of contents
 ### Tutorials
 ### Articles
 ### Resources & Tools
+
+## Who to Follow
+
+### Blogs
+
+### Twitter
