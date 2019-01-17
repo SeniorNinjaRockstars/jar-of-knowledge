@@ -2,12 +2,15 @@
 
 Table of contents
 
-- [React](#react)
-- [Nodejs](#nodejs)
+- [What to Learn](#what-to-learn)
+  - [React](#react)
+  - [Nodejs](#nodejs)
 
 - [Who to Follow](#who-to-follow)
   - [Blogs](#blogs)
   - [Twitter](#twitter)
+
+# What to Learn
 
 ## React
 
@@ -21,8 +24,8 @@ Table of contents
 ### Articles
 ### Resources & Tools
 
-## Who to Follow
+# Who to Follow
 
-### Blogs
+## Blogs
 
-### Twitter
+## Twitter
