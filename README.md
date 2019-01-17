@@ -28,4 +28,6 @@ Table of contents
 
 ## Blogs
 
+### [Overreacted](https://overreacted.io/) by [Dan Abramov](https://github.com/gaearon)
+
 ## Twitter
