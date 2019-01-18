@@ -1,4 +1,4 @@
-# jar-of-knowledge
+<h1 align="center">Jar of Knowledge</h1>
 
 Table of contents
 
