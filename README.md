@@ -5,6 +5,7 @@ Table of contents
 - [What to Learn](#what-to-learn)
   - [React](#react)
   - [Nodejs](#nodejs)
+  - [GraphQL](#graphql)
 
 - [Who to Follow](#who-to-follow)
   - [Blogs](#blogs)
@@ -23,6 +24,13 @@ Table of contents
 
 ### Tutorials
 ### Articles
+### Resources & Tools
+
+## GraphQL
+
+### Tutorials
+### Articles
+- [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-514d5b3c0eab) by [Naresh Bhatia](https://twitter.com/NareshJBhatia)
 ### Resources & Tools
 
 ## Other
