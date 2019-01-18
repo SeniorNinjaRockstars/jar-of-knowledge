@@ -24,14 +24,14 @@ Table of contents
 
 ### Tutorials
 ### Articles
-- [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e) by [Flavio Copes](https://twitter.com/flaviocopes)
 ### Resources & Tools
+- [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e) by [Flavio Copes](https://twitter.com/flaviocopes)
 
 ## GraphQL
 
 ### Tutorials
-### Articles
 - [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-514d5b3c0eab) by [Naresh Bhatia](https://twitter.com/NareshJBhatia)
+### Articles
 ### Resources & Tools
 
 ## Other
