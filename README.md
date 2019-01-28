@@ -19,6 +19,7 @@ Table of contents
 ### Articles
 ### Resources & Tools
 - [Documentation](https://reactjs.org/docs/getting-started.html)
+- [The React handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) by [Flavio Copes](https://twitter.com/flaviocopes)
 
 ## Nodejs
 
