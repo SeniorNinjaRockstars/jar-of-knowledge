@@ -3,6 +3,7 @@
 Table of contents
 
 - [What to Learn](#what-to-learn)
+  - [JavaScript](#javascript)
   - [React](#react)
   - [Nodejs](#nodejs)
   - [GraphQL](#graphql)
@@ -12,6 +13,13 @@ Table of contents
   - [Twitter](#twitter)
 
 # What to Learn
+
+## JavaScript
+
+### Tutorials
+### Articles
+- [ES5 to ESNext  -  here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e) by [Flavio Copes](https://twitter.com/flaviocopes) 
+### Resources & Tools
 
 ## React
 
