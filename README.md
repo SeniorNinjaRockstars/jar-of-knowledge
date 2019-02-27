@@ -39,6 +39,7 @@ Table of contents
 ## GraphQL
 
 ### Tutorials
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 - [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-514d5b3c0eab) by [Naresh Bhatia](https://twitter.com/NareshJBhatia)
 ### Articles
 ### Resources & Tools
