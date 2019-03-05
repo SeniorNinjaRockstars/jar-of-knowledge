@@ -19,6 +19,7 @@ Table of contents
 ### Tutorials
 ### Articles
 - [ES5 to ESNext  -  here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e) by [Flavio Copes](https://twitter.com/flaviocopes) 
+- [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) by Olivier De Meulder
 ### Resources & Tools
 
 ## React
