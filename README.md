@@ -45,6 +45,10 @@ Table of contents
 ### Articles
 ### Resources & Tools
 
+## CSS
+### Resources & Tools
+- [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
+
 ## Other
 
 ### Tutorial
