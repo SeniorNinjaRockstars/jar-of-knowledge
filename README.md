@@ -50,6 +50,8 @@ Table of contents
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 ## Other
+### Resources & Tools
+- [My opininated GIT Cheat Sheet](https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm)
 
 ### Tutorial
 
