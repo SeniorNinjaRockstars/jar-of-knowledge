@@ -53,6 +53,9 @@ Table of contents
 ### Resources & Tools
 - [My opininated GIT Cheat Sheet](https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm)
 
+#### Headless CMS
+- [Sanity](https://www.sanity.io) - 3 users for free, then 10$ per extra uses / month
+
 ### Tutorial
 
 - Video Tutorial 📺
