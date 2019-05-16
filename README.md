@@ -26,6 +26,7 @@ Table of contents
 
 ### Tutorials
 ### Articles
+- [5 common practices that you can stop doing in React](https://blog.logrocket.com/5-common-practices-that-you-can-stop-doing-in-react-9e866df5d269)
 ### Resources & Tools
 - [Documentation](https://reactjs.org/docs/getting-started.html)
 - [The React handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) by [Flavio Copes](https://twitter.com/flaviocopes)
