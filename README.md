@@ -20,6 +20,7 @@ Table of contents
 ### Articles
 - [ES5 to ESNext  -  here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e) by [Flavio Copes](https://twitter.com/flaviocopes) 
 - [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) by Olivier De Meulder
+- [7 FrontEnd JavaScript Trends and Tools You Should Know for 2020](https://hackernoon.com/7-frontend-javascript-trends-and-tools-you-should-know-for-2020-fb1476e41083?fbclid=IwAR0PFhYcM4Hzx0r2BPTeFQ-j-Oe5KrBodYNl438xhDDHOJ65xUXvi249zlw)
 ### Resources & Tools
 
 ## React
